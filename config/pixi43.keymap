@@ -91,10 +91,10 @@
 
         num-FUNCTION {
             bindings = <
-&kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &trans                              &kp F1          &kp F2  &kp F3  &kp F4  &kp F5
-&trans           &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &trans  &trans      &kp F13         &kp F6          &kp F7  &kp F8  &kp F9  &kp F10
-&trans           &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &trans  &trans      &kp LANGUAGE_1  &kp LANGUAGE_2  &trans  &trans  &trans  &kp F11
-&trans           &trans           &trans           &trans           &trans  &trans      &trans          &trans                                  &kp F12
+&kp KP_NUMBER_0  &kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3                              &kp F1          &kp F2  &kp F3  &kp F4  &kp F5
+&trans           &kp KP_NUMBER_4  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &trans      &kp F13         &kp F6          &kp F7  &kp F8  &kp F9  &kp F10
+&trans           &kp KP_NUMBER_7  &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &trans      &kp LANGUAGE_1  &kp LANGUAGE_2  &trans  &trans  &trans  &kp F11
+&trans           &trans           &trans           &trans           &trans           &trans      &trans          &trans                                  &kp F12
             >;
         };
 
